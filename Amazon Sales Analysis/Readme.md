@@ -1,6 +1,6 @@
 # Amazon Sales Insights Analysis using Power BI
 
-### Dashboard Link : https://github.com/dattasai0503/Power-BI-Projects/blob/main/Amazon%20Sales%20Analysis.pbix
+### Dashboard Link : [https://github.com/dattasai0503/Power-BI-Projects/blob/main/Amazon%20Sales%20Analysis.pbix](https://github.com/dattasai0503/Power-BI-Projects/blob/main/Amazon%20Sales%20Analysis/Amazon%20Sales%20Analysis.pbix)
 
 ## Problem Statement
 
@@ -27,7 +27,7 @@ Using Visual Level Filter from the Filters pane, basic filtering was used & null
 
 # Snapshot of Dashboard 
 
-!https://github.com/dattasai0503/Power-BI-Projects/blob/main/Dashboard.png
+![https://github.com/dattasai0503/Power-BI-Projects/blob/main/Dashboard.png](https://github.com/dattasai0503/Power-BI-Projects/blob/main/Amazon%20Sales%20Analysis/Dashboard.png)
 
  
 
